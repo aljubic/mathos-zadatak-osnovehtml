@@ -1,0 +1,135 @@
+*{
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	margin:0;
+}
+
+body{
+	background-color: black;
+	margin: 0;
+	padding: 0;
+}
+
+.nav a{
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+}
+
+h2{
+	font-size: 30px;
+	border-bottom: 1px solid black;
+	padding: 10px;
+	padding-bottom: 0;
+}
+
+h5{
+	font-size: 12px;
+	padding-left:10px;
+	padding-bottom: 10px;
+}
+
+.h3_p{
+	font-size: 26px;
+	padding: 10px;
+}
+
+.h3_z{
+	font-size: 24px;
+	padding: 10px;
+}
+
+a{
+	color: green;
+	text-decoration: none;
+}
+
+header {
+	background-color: green;
+	color: white;
+	font-size: 30px;
+	padding: 10px;
+}
+
+nav ul{
+	background-color: green;
+	display: block;
+	padding: 10px;
+	margin-top: 1px;
+	margin-bottom: 0px;
+}
+
+nav ul li {
+	display: inline-block;
+	background-color: green;
+	padding: 10px;
+	font-size: 16px;
+}
+
+
+.section, .container{
+	width: 80%;
+	margin: auto;
+	background-color: lightgreen;
+	padding:10px;
+}
+
+.wrap-it{
+	height: 200px;
+	padding: 20px;
+	border: 1px solid black;
+}
+
+.slika{
+	float: left;
+	width: 30%;
+	display: block;	
+	text-align: center;
+}
+
+img{
+	display:block;
+	height: 150px;
+	margin: auto;
+}
+
+.cilj{
+	float: left;
+	width: 50%;
+	display: block;
+	padding: 10px;
+}
+
+.status{
+	float: left;
+	width: 20%;
+	display: block;
+	padding: 20px;
+	margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+footer{
+	padding: 10px;
+	background-color: green;
+	color: white;
+	text-align: right;
+}
+
+
+article form{
+	padding: 10px;
+	font-size: 16px;
+	border: 1px solid black;
+	width: 400px;
+}
